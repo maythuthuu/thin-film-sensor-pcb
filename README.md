@@ -4,9 +4,9 @@
 
 This PCB is the **first custom PCB I designed** for my robotics club, **VT CRO (Virginia Tech Competitive Robotics Organization)**, specifically for *[The Workcell](https://www.vtcro.org/design-teams/mwc)*.
 
-The Workcell is a **fully autonomous 3D-printing farm** that VT CRO began developing in Fall 2023. The project went on to win national recognition in Spring 2024, including the **Honda Innovation Award** and the **Additive Manufacturing Award** at the **National Robotics Challenge (Ohio)**.
+The Workcell is a **fully autonomous 3D-printing farm** that VT CRO began developing in Fall 2023. The project went on to win national awards in Spring 2024, including the **Honda Innovation Award** and the **Additive Manufacturing Award** at the **National Robotics Challenge** in Ohio.
 
-In Fall 2025, the team decided to **open-source the project** and develop a **V2 system**, which includes major redesigns across the **mechanical, software, and electrical** subsystems. As part of this effort, several **new custom PCBs** were designed for improved modularity, reliability, and scalability.
+In Fall 2025, we decided to **open-source the project** and develop a **V2 model**, which includes major redesigns across **mechanical, software, and electrical**. As part of this effort, several **new custom PCBs** were designed for improved modularity, reliability, and scalability.
 
 This repository focuses specifically on **one of those custom PCBs**. I won’t go into detail about the entire Workcell here, but feel free to explore VT CRO’s website for more background. Once the Workcell V2 is fully open-sourced, I’ll link the full project here as well.
 
@@ -52,5 +52,4 @@ In KiCad, I used **solder pads** rather than connectors for the thin-film sensor
   <img src="images/readme3d1.png" width="45%">
   <img src="images/readme3d3.png" width="45%">
 </p>
--->
 
